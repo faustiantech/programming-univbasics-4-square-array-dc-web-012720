@@ -3,5 +3,4 @@ def square_array(array)
   while(array[count])
     array[count] = array[count]**2
     count++
-  end
 end
